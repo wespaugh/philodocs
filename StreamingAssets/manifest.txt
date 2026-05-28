@@ -145,7 +145,6 @@
 /Databases/Abilities/w5_core_rulebook/w5_whispered_passage.json
 /Databases/Abilities/w5_core_rulebook/w5_wind_claws.json
 /Databases/Abilities/w5_core_rulebook/w5_winter_wolf.json
-/Databases/Abilities/w5_core_rulebook/wyrmtide_urban_hunter.json
 /Databases/Abilities/w5_shattered_nation/shatterednation_caging.json
 /Databases/Abilities/w5_shattered_nation/shatterednation_chiminage.json
 /Databases/Abilities/w5_shattered_nation/shatterednation_cleansing_rite.json
