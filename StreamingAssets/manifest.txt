@@ -162,7 +162,6 @@
 /Databases/Abilities/w5_shattered_nation/shatterednation_the_renewal_circle.json
 /Databases/Abilities/w5_shattered_nation/shatterednation_the_sacred_scar.json
 /Databases/Abilities/w5_shattered_nation/shattered_nation_the_howl_carries.json
-/Databases/Abilities/w5_wyrmtide/w5_wyrmtide.json
 /Databases/Abilities/w5_wyrmtide/wyrmtide_bite_of_the_lycan.json
 /Databases/Abilities/w5_wyrmtide/wyrmtide_corrupted_memories.json
 /Databases/Abilities/w5_wyrmtide/wyrmtide_cutting_words.json
