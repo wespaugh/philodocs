@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "w5_core_rulebook",
+    "DisplayName": "Werewolf: The Apocalypse 5th Edition Core Rulebook",
+    "Splat": 2,
+    "Version": ""
+  },
+  {
+    "Id": "w5_shattered_nation",
+    "DisplayName": "W5: Shattered Nation",
+    "Splat": 2,
+    "Version": ""
+  },
+  {
+    "Id": "w5_wyrmtide",
+    "DisplayName": "W5: Wyrmtide",
+    "Splat": 2,
+    "Version": ""
+  },
+  {
+    "Id": "w5_moonlit_path",
+    "DisplayName": "W5: Moonlit Path",
+    "Splat": 2,
+    "Version": ""
+  },
+  {
+    "Id": "w5_nexus_homebrew",
+    "DisplayName": "W5 Nexus Homebrew",
+    "Splat": 2,
+    "Version": ""
+  }
+]
