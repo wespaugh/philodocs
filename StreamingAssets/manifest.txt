@@ -102,6 +102,7 @@
 /Databases/Abilities/w5_core_rulebook/w5_sense_the_true_form.json
 /Databases/Abilities/w5_core_rulebook/w5_serpents_coil.json
 /Databases/Abilities/w5_core_rulebook/w5_shadow_sense.json
+/Databases/Abilities/w5_core_rulebook/w5_share_the_pain.json
 /Databases/Abilities/w5_core_rulebook/w5_sharpened_senses.json
 /Databases/Abilities/w5_core_rulebook/w5_shield_of_the_wyld.json
 /Databases/Abilities/w5_core_rulebook/w5_shrouded_aspect.json
